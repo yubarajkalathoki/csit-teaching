@@ -20,6 +20,11 @@ Main-Class: HelloWorld
 ```
 jar -cvfm HelloWorld.jar manifest.txt HelloWorld.class
 ```
+* If you have multiple classes and want to include all inside jar then just add class name followed by space like following.
+```
+jar -cvfm HelloWorld.jar manifest.txt HelloWorld.class NewHello.class
+```
+
 It will create `HelloWorld.jar` file.
 ### Step 5. To run jar file use fullowing command.
 ```
