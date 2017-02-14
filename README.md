@@ -1,3 +1,3 @@
 # csit-teaching
 
-### Lab practical examples
+### This repository includes teaching resources.
