@@ -1,3 +1,3 @@
 # csit-teaching
 
-### This repository includes teaching resources.
+### You will find teaching resources in this repository.
